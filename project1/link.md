@@ -1,2 +1,0 @@
-Preview site link:-
-[Cat Photo App](https://htmlpreview.github.io/?https://raw.githubusercontent.com/kudos2Shef/Responsive-Web-Design/main/project1/index%20(1).html)
