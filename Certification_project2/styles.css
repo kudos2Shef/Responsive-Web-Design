@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
+
+#main {
+  /*border:7px solid #eee;*/
+ /* border-top:1px solid white;*/
+ margin: 30px 8px;
+ padding: 15px;
+ border-radius: 5px;
+ /*border:2px dotted black;*/
+ background: #eee;
+   letter-spacing: 0.03rem;
+   color:rgb(76, 61, 61);
+
+
+
+ 
+}
+.header {
+margin-top:10px;
+ 
+}
+.intro{
+padding-top:10px; 
+font-family:Roboto; 
+text-align:center;
+border:10px solid #eee;
+background:#eee;  
+}
+
+p {
+ line-height:1.6; 
+ font-size:15px;
+ /*font-weight:lighter;*/
+}
+
+body {
+  text-align:center;
+  font-family:Roboto; 
+  
+}
+
+img {
+  display:block;
+  height:auto;
+  max-width:100%;
+  margin:20px; 
+ width:100%; 
+ object-fit:cover;
+  
+   
+}
+.img-caption {
+background-color:white;
+padding-bottom:10px;
+
+}
+
+ .box{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:white;
+}
+a {
+color:#477ca7;
+font-family:Roboto;
+}
+
+a:visited {
+color:#74638f; 
+}
+a:hover {
+  color:#f31257;
+  /*color:#f312:*/
+}
+
+.list{
+  display:inline-block;
+  text-align:left;
+  
+margin:0;
+padding: 0;
+  font-size: 22px;
+}
+
+.list span{
+  font-weight: bold;
+}
+.list i{
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 80;
+  font-family:Arial;
+  letter-spacing: 0.05em; 
+}
+ cite{
+  font-size: 15px;
+  letter-spacing: 0.05em; 
+
+}
+blockquote i{
+  margin:2rem 0;
+}
+blockquote{
+  padding: 1rem 0;
+  color: rgb(53, 47, 68);
+
+}
+
+
+.list div{
+  
+  max-width: 600px;
+}
